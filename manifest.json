@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Consulta Tokens/Base",
+    "description": "Setor de Migração",
+    "author": "Dalençon Cardoso Colares",
+    "browser_action": {
+        "default_title": "Utilitario Migração",
+        "default_popup": "index.html"
+        
+    },
+    "icons": {
+        "16": "nuvem.png",
+        "48": "nuvem.png",
+       "128": "nuvem.png"
+     },
+    "permissions": [
+        "tabs",
+        "webRequest"
+    ]
+}

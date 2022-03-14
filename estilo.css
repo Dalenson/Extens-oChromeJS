@@ -1,0 +1,53 @@
+body {
+    height: auto;
+    width: 400px;
+}	
+#btn {
+    margin-bottom: 10px;
+}
+#divisor {
+    background-color: black;
+}
+#h4{
+    font-size: 11px;
+}
+#btninfo{
+    width: 20%;
+    float: right;
+    font-size: 10px;
+    color:rgb(0, 24, 161);
+    background-color: white;
+    border-color: rgb(0, 24, 161);
+    margin-bottom: 10px;
+}
+#adiciona{
+    width: 30%;
+    float: left;
+    font-size: 10px;
+}
+#btninfo:hover{
+    color:white;
+    background-color: rgb(0, 24, 161);
+}
+#select{
+    background-color: white;
+    border-width: 2px;
+    border-color: #c0c0c0;
+}
+option{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+#link{
+    float: right;
+    font-size: 10px;
+}
+#top{
+    border-color: #c0c0c0;
+    border-style: solid;
+    border-width: 2px;
+    margin: 10px 0px 10px 0px;
+    padding: 10px 10px 30px 10px;
+    height: auto;
+    border-radius: 10px;
+}
