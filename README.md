@@ -7,4 +7,4 @@ Utilizado ferramentas como:
 * Bootstrap
 * SweetAlert2
 
-Extensão desenvolvida para realizar controle e validação de informações de determinada empresa, realizando requests e realizando encoded base-64.
+Extensão desenvolvida para realizar controle e validação de informações, realizando requests e realizando encoded base-64.
